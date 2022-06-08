@@ -16,5 +16,3 @@ Follow prompt
 Instructions for use:
 
 Follow instructions inside application.
-
-For additional support email me at: yasseen_tolba@icloud.com
